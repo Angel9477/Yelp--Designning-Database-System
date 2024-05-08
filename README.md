@@ -5,4 +5,5 @@ We analyze Yelp's data architecture, including businesses, reviews, and user int
 Yelp dataset: https://www.kaggle.com/datasets/yelp-dataset/yelp-dataset
 
 # Yelp Project
+Let's explore what we discovered on Yelp by using SQL! 
 https://drive.google.com/file/d/1KT9sURHz_RxlHDi1iqa53JZxGoDb2fT7/view?usp=sharing
